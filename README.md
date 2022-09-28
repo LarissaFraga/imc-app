@@ -1,4 +1,5 @@
 # imc-app
+Esse é um projeto que calcula o IMC de uma pessoa.
 
 ## Project setup
 ```
